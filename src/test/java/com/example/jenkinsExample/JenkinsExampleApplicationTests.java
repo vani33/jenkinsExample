@@ -14,6 +14,7 @@ class JenkinsExampleApplicationTests {
 	void contextLoads() {
 		logger.info("***In a JenkinsExampleApplicationTests****");
 		logger.info("********************************");
+		logger.info("$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$");
 	}
 
 }
