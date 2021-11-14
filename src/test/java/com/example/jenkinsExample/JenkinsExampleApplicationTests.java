@@ -13,6 +13,7 @@ class JenkinsExampleApplicationTests {
 	@Test
 	void contextLoads() {
 		logger.info("***In a JenkinsExampleApplicationTests****");
+		logger.info("********************************");
 	}
 
 }
